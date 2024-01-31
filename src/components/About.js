@@ -21,7 +21,7 @@ class About extends React.Component{
     constructor(props)
     {
         super(props);
-
+        console.log("ankit");
         console.log("Parent constructor")
     }
     // componentDidMount()
